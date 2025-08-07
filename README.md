@@ -9,7 +9,7 @@ Department of Politics and Economics, Ankara University
 
 - Altuğ Yalçıntaş
     - **Mail:** altug.yalcintas[at]politics.ankara.edu.tr
-    - [**Personal Site**](https://sekerefe.github.io/)
+    - [**Personal Site**](https://ayalcintas.notion.site)
     - **Office Hours:** Appointments only
 - Suay Tosyalı
     - **Mail:** suaytosyali[at]gmail.com
