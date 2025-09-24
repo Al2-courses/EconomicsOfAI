@@ -17,7 +17,7 @@ Department of Politics and Economics, Ankara University
 - Çağıl Derköken
     - **Mail:** derkoken_cagil[at]icloud.com
     - [**Personal Site**](https://cagilderkoken.github.io)
-- [Economics of AI GPT](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
+- [**Economics of AI GPT**](https://chatgpt.com/g/g-YTn5Ek5iC-economics-of-ai)
 ---
 
 **Course Overview**
