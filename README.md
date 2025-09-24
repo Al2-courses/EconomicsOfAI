@@ -16,7 +16,7 @@ Department of Politics and Economics, Ankara University
     - **[Personal Site](https://suaytli.github.io/)**
 - Çağıl Derköken
     - **Mail:** derkoken_cagil[at]icloud.com
-    - Personal Site
+    - [Personal Site](https://cagilderkoken.github.io)
 ---
 
 **Course Overview**
