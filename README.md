@@ -2,7 +2,7 @@
 
 Department of Politics and Economics, Ankara University
 
-2025-2026 Academic Year, Spring Term Course
+2025-2026 Academic Year, Fall Term Course
 
 ---
 **Lecturer & TA Information**
