@@ -38,22 +38,19 @@ The course grade will consist of a 40% midterm exam and a 60% final exam. Attend
 
 Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial Intelligence._ Springer. [Available via Ankara University Library](https://link.springer.com/book/10.1007/978-3-031-62308-0#about-authors).
 
-_OECD AI Policy Observatory_. 2024. [Available here](https://oecd.ai/en/).
-
 # Form Links and Midterm + Final Announcements
 
 **Note:** Form links will be inactive at 7 PM.
 
-| Week No | Topic Name | Form Link |
-| ------- | ---------- | --------- |
-| Week 1  | TBA        | Link      |
-| Week 2  | TBA        | Link      |
-| Week 3  | TBA        | Link      |
-| Week 4  | TBA        | Link      |
-| Week 5  | TBA        | Link      |
-| Week 6  | TBA        | Link      |
-| Week 7  | TBA        | Link      |
-| Week 8  | TBA        | Link      |
-| Week 9  | TBA        | Link      |
-| Week 10 | TBA        | Link      |
-| Week 11 | TBA        | Link      |
+| Week No | Topic Name                          | Form Link |
+| ------- | ----------                          | --------- |
+| Week 1  | The Simple Economics of AI          | Link      |
+| Week 2  | TBA                                 | Link      |
+| Week 3  | TBA                                 | Link      |
+| Week 4  | TBA                                 | Link      |
+| Week 5  | TBA                                 | Link      |
+| Week 6  | TBA                                 | Link      |
+| Week 7  | TBA                                 | Link      |
+| Week 8  | TBA                                 | Link      |
+| Week 9  | TBA                                 | Link      |
+| Week 10 | TBA                                 | Link      |
