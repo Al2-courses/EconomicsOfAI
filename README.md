@@ -40,11 +40,11 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 # Form Links and Midterm + Final Announcements
 
-**Note:** Form links will be inactive at 7 PM.
+**Note:** Form links will be inactive at 23:59.
 
 | Week No | Topic Name                          | Form Link |
 | ------- | ----------                          | --------- |
-| Week 1  | The Simple Economics of AI          | Link      |
+| Week 1  | The Simple Economics of AI          | [Link](https://forms.gle/qQHqNKMxWetDifwV7)      |
 | Week 2  | TBA                                 | Link      |
 | Week 3  | TBA                                 | Link      |
 | Week 4  | TBA                                 | Link      |
