@@ -38,6 +38,10 @@ The course grade will consist of a 40% midterm exam and a 60% final exam. Attend
 
 Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial Intelligence._ Springer. [Available via Ankara University Library](https://link.springer.com/book/10.1007/978-3-031-62308-0#about-authors).
 
+**Main Data Source**
+
+[_Our World in Data_](https://ourworldindata.org)
+
 # Form Links and Midterm + Final Announcements
 
 **Note:** Form links will be inactive at 23:59.
