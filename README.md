@@ -46,15 +46,15 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 **Note:** Form links will be inactive at 23:59.
 
-| Week No | Topic Name                          | Form Link |
-| ------- | ----------                          | --------- |
-| Week 1  | The Simple Economics of AI          | [Link](https://forms.gle/qQHqNKMxWetDifwV7)      |
-| Week 2  | TBA                                 | Link      |
-| Week 3  | TBA                                 | Link      |
-| Week 4  | TBA                                 | Link      |
-| Week 5  | TBA                                 | Link      |
-| Week 6  | TBA                                 | Link      |
-| Week 7  | TBA                                 | Link      |
-| Week 8  | TBA                                 | Link      |
-| Week 9  | TBA                                 | Link      |
-| Week 10 | TBA                                 | Link      |
+| Week No | Topic Name                 | Lecture Link | Form Link                                   |
+| ------- | -------------------------- | ------------ | ------------------------------------------- |
+| Week 1  | The Simple Economics of AI | Link         | [Link](https://forms.gle/qQHqNKMxWetDifwV7) |
+| Week 2  | TBA                        | Link         | Link                                        |
+| Week 3  | TBA                        | Link         | Link                                        |
+| Week 4  | TBA                        | Link         | Link                                        |
+| Week 5  | TBA                        | Link         | Link                                        |
+| Week 6  | TBA                        | Link         | Link                                        |
+| Week 7  | TBA                        | Link         | Link                                        |
+| Week 8  | TBA                        | Link         | Link                                        |
+| Week 9  | TBA                        | Link         | Link                                        |
+| Week 10 | TBA                        | Link         | Link                                        |
