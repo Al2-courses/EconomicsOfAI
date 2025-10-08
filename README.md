@@ -48,7 +48,7 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 | Week No | Topic Name                 | Lecture Link | Form Link                                   |
 | ------- | -------------------------- | ------------ | ------------------------------------------- |
-| Week 1  | The Simple Economics of AI | Link         | [Link](https://forms.gle/qQHqNKMxWetDifwV7) |
+| Week 1  | The Simple Economics of AI | [Link](https://docs.google.com/presentation/d/1sHIH_P1CiHOleyYlvM-C1C2w5sxnU6Tm/edit?slide=id.p46#slide=id.p46)| [Link](https://forms.gle/qQHqNKMxWetDifwV7) |
 | Week 2  | TBA                        | Link         | Link                                        |
 | Week 3  | TBA                        | Link         | Link                                        |
 | Week 4  | TBA                        | Link         | Link                                        |
