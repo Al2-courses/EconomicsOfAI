@@ -46,10 +46,13 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 **Note:** Form links will be inactive at 23:59.
 
-**Week 1: The Simple Economics of AI**
+**Topic 1: The Simple Economics of AI**
 [PPT File](https://docs.google.com/presentation/d/1sHIH_P1CiHOleyYlvM-C1C2w5sxnU6Tm/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
 [Class Assignment](https://forms.gle/qQHqNKMxWetDifwV7) //
-[Lecture Notes](https://docs.google.com/document/d/1WI27GA51gocFwjad2f6P56qu2TTnmFLe/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
+[Lecture Notes 1](https://docs.google.com/document/d/1WI27GA51gocFwjad2f6P56qu2TTnmFLe/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
-**Week 2: Can Capitalism Survive**
-[PPT File](https://docs.google.com/presentation/d/1a1qjs1DOUeZ_myXG5_Fp8VXcQFkzXNcs/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
+**Topic 2: Can Capitalism Survive**
+[PPT File](https://docs.google.com/presentation/d/1a1qjs1DOUeZ_myXG5_Fp8VXcQFkzXNcs/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
+[Class Assignment]
+//[Lecture Notes 2A]
+//[Lecture Notes 2B]
