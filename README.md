@@ -53,6 +53,6 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 **Topic 2: Can Capitalism Survive**
 [PPT File](https://docs.google.com/presentation/d/1a1qjs1DOUeZ_myXG5_Fp8VXcQFkzXNcs/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
-[Class Assignment](https://docs.google.com/forms/d/e/1FAIpQLSeA8J1Pj1jDECK6DjQ4E3gDSgSgkoeDRaOEF-ZvfPqvdA6gjQ/viewform?usp=dialog) //
+[Class Assignment](https://forms.gle/dFkwmFrqCTDWzSX46) //
 [Lecture Notes 2A](https://docs.google.com/document/d/1lJz6a2ZOdogna7y0Vo3Z_OAvgU0ddjOG/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
 [Lecture Notes 2B](https://docs.google.com/document/d/1D_r1UfaVES62h6_6VT2b4fD4Mkj3H_0T/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
