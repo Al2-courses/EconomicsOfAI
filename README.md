@@ -60,5 +60,5 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 **Topic 3: (Small) Data, Big Data, and Prosumption**
 [PPT File](https://docs.google.com/presentation/d/1nXuxczjnddiAvaKPci_w5l3efBxSQ9Pa/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) //
-[Class Assignment]() //
-[Lecture Notes 2A]() //
+[Class Assignment] //
+[Lecture Notes 3] //
