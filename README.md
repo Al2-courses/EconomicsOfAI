@@ -55,11 +55,11 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 [PPT File](https://docs.google.com/presentation/d/1a1qjs1DOUeZ_myXG5_Fp8VXcQFkzXNcs/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) //
 [Class Assignment](https://forms.gle/dFkwmFrqCTDWzSX46) //
 [Lecture Notes 2A](https://docs.google.com/document/d/1lJz6a2ZOdogna7y0Vo3Z_OAvgU0ddjOG/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
-[Lecture Notes 2B](https://docs.google.com/document/d/1D_r1UfaVES62h6_6VT2b4fD4Mkj3H_0T/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
+[Lecture Notes 2B](https://docs.google.com/document/d/1D_r1UfaVES62h6_6VT2b4fD4Mkj3H_0T/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
 [Lecture Notes 2C](https://docs.google.com/document/d/1tYAw807t7Hk4q9Y5eAsPVp-efq-5EG9n/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 **Topic 3: (Small) Data, Big Data, and Prosumption**
 [PPT File](https://docs.google.com/presentation/d/1nXuxczjnddiAvaKPci_w5l3efBxSQ9Pa/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) //
 [Class Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdG3vD4fPWN7vVO3gpy64mKZ786yaduNEQ78At_uRKQSLwOHw/viewform) //
-[Lecture Notes 3A](https://docs.google.com/document/d/1CFReA5nnGynsBY92gnXWpzc0xkP3aZnx1RN-uKtg7aY/edit?usp=sharing) 
+[Lecture Notes 3A](https://docs.google.com/document/d/1CFReA5nnGynsBY92gnXWpzc0xkP3aZnx1RN-uKtg7aY/edit?usp=sharing) //
 [Lecture Notes 3B](https://docs.google.com/document/d/1OH-JDyi3XwnGZ_HMgJP7nOE_ntNCT6_WCMx87r0tiJA/edit?usp=sharing) 
