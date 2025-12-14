@@ -65,3 +65,4 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 [Lecture Notes 3B](https://docs.google.com/document/d/1OH-JDyi3XwnGZ_HMgJP7nOE_ntNCT6_WCMx87r0tiJA/edit?usp=sharing) //
 [Lecture Notes 3C](https://docs.google.com/document/d/1-MY8Hxyj10ayqxX2TxbEJmPqFg7v1dFwrTPhRtKIRZQ/edit?usp=sharing) //
 [Lecture Notes 3D](https://docs.google.com/document/d/1krbrFKdRi4jEbHw84AM1KNcjLT0B5x693-EmFL3zazQ/edit?usp=sharing) //
+[Lecture Notes 3E](https://docs.google.com/document/d/1-ZjtiASV3_GVC42xePrvh5o1tY1l2rsSsBURefDzjpw/edit?usp=sharing)
