@@ -69,4 +69,4 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 
 **Topic 4: Digital Protectionism**
 [PPT File](https://docs.google.com/presentation/d/1SG3xv1fep3TvW_BcBGAIXNQrP9VCpDTs/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
-[Lecture Notes](https://docs.google.com/document/d/1Xx_h2CM8fLWmUOxDerrq4aHoZ3QoEK29/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
+[Lecture Notes 4](https://docs.google.com/document/d/1Xx_h2CM8fLWmUOxDerrq4aHoZ3QoEK29/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
