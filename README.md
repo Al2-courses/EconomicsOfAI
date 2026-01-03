@@ -71,10 +71,10 @@ Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial 
 [PPT File](https://docs.google.com/presentation/d/1SG3xv1fep3TvW_BcBGAIXNQrP9VCpDTs/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) //
 [Lecture Notes 4](https://docs.google.com/document/d/1Xx_h2CM8fLWmUOxDerrq4aHoZ3QoEK29/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
 
-**Overview of Economics of AI**
+**Overview of Economics of AI:**
 [PPT File](https://docs.google.com/presentation/d/1RIg9-bYiRAJzm7egMcq5Jo7YERjXIqJ686mjg9XEY_M/edit?usp=sharing) //
 [Lecture Notes Overview 1](https://docs.google.com/document/d/1Rx_DETfEreUREt9o_TWH43-1aDQxsHxcXHkfv2qqqQs/edit?usp=sharing) //
 [Lecture Notes Overview 2](https://docs.google.com/document/d/14c5HaA1dPIjouJhnh-zTSMNM8dbDfG6UQEDRz2MGgGg/edit?usp=sharing)
 
-**Sample Final**
+**Sample Final:**
 [Previous Exam](https://docs.google.com/document/d/1SsaviEw2WU9w8lg5RA3gXp9bCP540wA7/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true)
