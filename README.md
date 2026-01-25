@@ -34,9 +34,11 @@ And most importantly: **(Why) Should we (i.e., _netizens_) care?**
 
 The course grade will consist of a 40% midterm exam and a 60% final exam. Attendance is not compulsory; however, students will be assigned to participate in online and offline activities during class hours. Participation in these activities will impact the final grade.
 
-**Readings**
+**Resources**
 
 Nayak, Bhabani Shankar and Nigel Walton. 2024. _Political Economy of Artificial Intelligence._ Springer. [Available via Ankara University Library](https://link.springer.com/book/10.1007/978-3-031-62308-0#about-authors).
+
+[Stuart Russel's Youtube Video](https://www.youtube.com/watch?v=P7Y-fynYsgE)
 
 **Main Data Source**
 
